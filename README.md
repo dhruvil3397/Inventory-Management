@@ -1,5 +1,4 @@
-# Inventory-Management
-* Inventory Management for Electronics Retailer
+# Inventory Management for Electronics Retailer
 * Original data = record1.json file
 * Now,I add the new product into the original file
 * Updated data = record.json file
